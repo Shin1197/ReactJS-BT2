@@ -1,0 +1,8 @@
+body {
+  height: 100vh;
+  background-image: url(../public/glassesImage/background.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow: hidden;
+}
